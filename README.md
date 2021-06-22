@@ -10,7 +10,7 @@ This is Laravel SPA project preset using VueJS and InertiaJS. Laravel Jetstream 
 
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel SPA documentation](https://laravel.com/docs/contributions).
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel SPA documentation](https://soap.github.io/laravel-spa-presets).
 
 
 ## License
