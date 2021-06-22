@@ -1,5 +1,5 @@
 
-## About Laravel-SPA-Preset
+## About Laravel-SPA-Presets
 
 This is Laravel SPA project preset using VueJS and InertiaJS. Laravel Jetstream or Fortify was not included. It is my intention to learn how to code SPA appliction without writing API by helping from Inertia. The main packages are:-
 
